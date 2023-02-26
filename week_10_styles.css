@@ -1,0 +1,68 @@
+/* The Intro */
+h1 {
+    font-family: Arial;
+    font-size: Large;
+    color: rgb(13, 18, 13);
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    text-align:left;
+    margin-top: 1%;
+ 
+}
+
+/* The Websites */
+h2 {
+    font-family: Arial;
+    color: rgb(13, 18, 13);
+    font-size: 30px;
+    padding-top: 3.5%;
+    padding-bottom:15%;
+}
+
+/* Descriptions of the websites */
+td,  tr, th, thead, tbody, table{
+    text-align: left;
+    font-size: 20px;
+    font-family: helvetica;
+    color:rgb(13, 18, 13);
+    border: 10px solid;
+    border-color: rgb(13, 18, 13);
+    width: 50%;
+    border-width: 10%;
+    border-bottom: 10%;
+    border-top:10%;
+    border-left: 10%;
+    border-right: 10%;
+    Padding-left: 50px;
+    Margin-left:25%;
+    padding-bottom: 5%;
+    margin-top: 2%;
+   
+}
+
+
+input[type="text"]{
+    margin-left:44%;
+  }
+
+label{
+    Margin-left:42%;
+    margin-top:1%;
+    }
+
+div button{
+    margin-left:48%;
+    margin-bottom: 10%;
+    margin-top:1%;
+}
+
+/* #input[type="text"] #input[label="Message"]{
+    Width:25%;
+    Border:1px solid #000000;
+    Border-radius:10px;
+    Margin:8px;
+    Padding:30px;
+    Box-sizing:border-box;
+    text-align:center;
+    } */
